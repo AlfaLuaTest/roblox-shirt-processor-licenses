@@ -1,7 +1,7 @@
 {
   "valid_licenses": [
     {
-      "key": "PRM-2025-ABC112",
+      "key": "A7X9Q2LM4ZT8",
       "type": "premium",
       "created_date": "2025-08-02",
       "expires_date": "9999-12-31",
@@ -9,86 +9,84 @@
       "max_users": 1
     },
     {
-      "key": "PRM-2025-DEF222",
+      "key": "P3W8D5KJ1RZ6",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-GHI333",
+      "key": "Z4N7L2BX9QF5",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-JKL444",
+      "key": "M6H1R8VT2QY4",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-MNO555",
+      "key": "K9D2G4XP7VQ3",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-PQR666",
+      "key": "R5Y8C1WQ3ZL7",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-STU777",
+      "key": "X2B9T6PF1JQ8",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-VWX888",
+      "key": "V4M7K1DZ9R8Q",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-YZA999",
+      "key": "L3Q9P8YF2XW6",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-BCD000",
+      "key": "T8R1G6ZK4M5N",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     },
     {
-      "key": "PRM-2025-EFG123",
+      "key": "Q7H2X9BD5L8F",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "9999-12-31",
       "active": true,
       "max_users": 1
     }
   ]
 }
-
-
