@@ -1,0 +1,94 @@
+{
+  "valid_licenses": [
+    {
+      "key": "PRM-2025-ABC112",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "9999-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-DEF222",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-GHI333",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-JKL444",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-MNO555",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-PQR666",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-STU777",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-VWX888",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-YZA999",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-BCD000",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    },
+    {
+      "key": "PRM-2025-EFG123",
+      "type": "premium",
+      "created_date": "2025-08-02",
+      "expires_date": "3031-12-31",
+      "active": true,
+      "max_users": 1
+    }
+  ]
+}
+
+
