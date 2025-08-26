@@ -1,19 +1,8 @@
 {
-  "hwid_bans": [
-    {
-      "hwid": "HWID-6A42243C3338EF5579F42829",
-      "reason": "Violation of terms",
-      "ban_date": "2026-01-20T12:00:00Z",
-      "banned": true
-    }
+  "banned_hwids": [
+    "HWID-6A42243C3338EF5579F42829"
   ],
-  "license_bans": [
-    {
-      "license_key": "STANDARD-2025-NEW456",
-      "reason": "Chargeback",
-      "ban_date": "2028-01-22T14:30:00Z", 
-      "banned": false
-    }
+  "banned_licenses": [
+    "STANDARD-2025-NEW456"
   ]
 }
-
