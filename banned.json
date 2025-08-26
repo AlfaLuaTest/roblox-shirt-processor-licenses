@@ -4,7 +4,7 @@
       "hwid": "HWID-6A42243C3338EF5579F42829",
       "reason": "Violation of terms",
       "ban_date": "2026-01-20T12:00:00Z",
-      "banned": false
+      "banned": true
     }
   ],
   "license_bans": [
@@ -16,3 +16,4 @@
     }
   ]
 }
+
