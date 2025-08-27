@@ -1,41 +1,39 @@
 <p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/Roblox-logo.png" width="200" alt="Roblox Logo">
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/Roblox-logo.png" width="250" alt="Roblox Logo">
 </p>
 
-# 🎽 Roblox Shirt Lisans Sistemi
+# 🎽 ROBLOX SHIRT LİSANS SİSTEMİ  
+> **Ultimate Premium License Management for Roblox Shirts & Outfits**  
 
-**Roblox üzerinde satılan veya dağıtılan shirt/ücretsiz kıyafetler için lisans kontrolü sağlayan sistem!**  
-Kullanıcıların geçerli lisansa sahip olup olmadığını doğrular ve buna göre kıyafet erişimi sağlar.
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsl0s1q4tSkf1mM/giphy.gif" width="400" alt="Shirt Animation">
+</p>
 
 ---
 
-## ✨ Özellikler
+## 🌟 ÖNE ÇIKAN ÖZELLİKLER | FEATURES
 
 <div align="center">
 
-| Özellik | Açıklama |  
-|---------|---------|  
-| 🛡️ **Lisans Kontrolü** | Kullanıcının geçerli lisansa sahip olup olmadığını doğrular |  
-| 💎 **Premium Lisans Desteği** | Farklı lisans türlerini (premium, standart vb.) yönetebilir |  
-| ⚡ **Kolay Entegrasyon** | Roblox oyunlarına veya bot sistemlerine kolayca entegre edilebilir |  
-| 📂 **Dosya Tabanlı Yönetim** | Lisans anahtarları `.json` veya `.txt` dosyaları üzerinden yönetilebilir |  
-| 🖥️ **GUI / CLI Destekli** | Sistem hem GUI hem terminal üzerinden kullanılabilir |  
+| 🔹 Özellik | Açıklama |  
+|-----------|---------|  
+| 🛡️ **Lisans Kontrolü** | Kullanıcının lisansı doğrulanır ve geçersiz lisanslara erişim engellenir. |  
+| 💎 **Premium Destek** | Premium ve standart lisanslar, süresiz veya geçici olarak yönetilebilir. |  
+| ⚡ **Kolay Entegrasyon** | Roblox oyunlarına veya bot sistemlerine tek satır kod ile entegre edilir. |  
+| 📂 **Dosya Tabanlı Yönetim** | `.json`, `.txt` veya özel formatlarla lisans yönetimi. |  
+| 🖥️ **GUI & CLI** | Hem kullanıcı dostu GUI hem de terminal üzerinden hızlı kullanım. |  
+| 🌐 **Çok Dilli Destek** | Türkçe, İngilizce, İspanyolca, Fransızca ve daha fazlası. |  
 
 </div>
 
 ---
 
-## 🎨 Görsel Öneriler
+## 🚀 KURULUM | INSTALLATION
 
-- Roblox temalı renkler: `#FF0000`, `#FFFFFF`, `#000000`  
-- Başlıklar için ikonlar: 🎽, 🛡️, 💎, ⚡, 📂, 🖥️  
-- Kod blokları için kırmızı veya siyah tema ile uyumlu renkler  
+```bash
+# Depoyu klonlayın
+git clone https://github.com/kullaniciAdi/roblox-shirt-lisans.git
+cd roblox-shirt-lisans
 
----
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/924/924915.png" width="100" alt="License Icon">
-</p>
-
-> 🔔 Bu sistem, Roblox shirt lisans yönetimini kolay ve güvenli hale getirir.  
-> Premium ve standart lisans desteği ile kullanıcılarınızın erişimlerini kontrol edebilirsiniz.
+# Gerekli kütüphaneleri yükleyin (Python örneği)
+pip install -r requirements.txt
