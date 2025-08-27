@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Roblox_logo.svg" width="200" alt="Roblox Logo">
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/Roblox-logo.png" width="200" alt="Roblox Logo">
 </p>
 
 # 🎽 Roblox Shirt Lisans Sistemi
