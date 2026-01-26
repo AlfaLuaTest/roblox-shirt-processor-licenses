@@ -1,8 +1,9 @@
 {
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "Daha iyi bir hizmet sunabilmek için API sistemimizi güncelliyoruz. Sistem şu anda bakım modundadır. Anlayışınız için teşekkür ederiz.",
   "webhook_url": "^_____^",
   "api_base_url": "https://raw.githubusercontent.com/AlfaLuaTest/roblox-shirt-processor-licenses/main/",
   "version": "1.0.0"
 }
+
 
