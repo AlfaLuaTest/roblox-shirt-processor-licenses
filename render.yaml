@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: roblox-shirt-license-api
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn --bind 0.0.0.0:$PORT --timeout 120 APP:flask_app"
+    envVars:
+      - key: RUN_MODE
+        value: api
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DISCORD_WEBHOOK_URL
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_REPO
+        value: AlfaLuaTest/roblox-shirt-processor-licenses
+      - key: GITHUB_BRANCH
+        value: main
